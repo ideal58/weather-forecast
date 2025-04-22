@@ -1,6 +1,12 @@
 Project Description
 A mobile weather forecast app that provides users with real-time weather updates, hourly and weekly forecasts, and location-based weather data. The app offers a sleek and intuitive interface with features like temperature trends, wind speed, humidity levels, and weather alerts for user-specified locations.
 
+![image](https://github.com/user-attachments/assets/fc2cf47e-43af-4c35-8a61-60649142deda)
+
+![image](https://github.com/user-attachments/assets/9ff85399-e43f-4675-89eb-d7e54e6191d1)
+
+![image](https://github.com/user-attachments/assets/196a8fd7-84b8-4469-994f-1827ffaa4ca2)
+
 Project-Specific Rules & Guidelines
 Support both Android and iOS platforms (use React Native or Flutter as per project stack).
 
